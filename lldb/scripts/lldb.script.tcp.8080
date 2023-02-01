@@ -1,0 +1,3 @@
+platform select remote-hos inner
+platform connect connect://:8080
+log enable lldb all -T -f /home/yaofeng/tmp/lldb.02.01.log
